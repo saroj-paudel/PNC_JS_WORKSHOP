@@ -1,0 +1,7 @@
+echo "# PNC_JS_WORKSHOP" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/saroj-paudel/PNC_JS_WORKSHOP.git
+git push -u origin main
